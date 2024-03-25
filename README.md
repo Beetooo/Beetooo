@@ -2,7 +2,7 @@
 - 👀 I'm interested in studying computer science and improving my programming skills
 - 📫 How to reach me:
      email: betosantospyne@gmail.com
-     linkdin: linkedin.com/in/beto-santos-pyne-0b43762bb?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+     linkdin: https://www.linkedin.com/in/beto-santos-pyne-0b43762bb?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 - 😄 Pronouns: He/him
 
 
